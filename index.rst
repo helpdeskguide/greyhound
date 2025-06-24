@@ -13,6 +13,7 @@ How to Find Your Greyhound Bus Ticket
 
     </div>
 If you've booked a Greyhound trip and can't find your ticket, don't worry—it’s easy to retrieve. Start by checking your email (including spam) for a confirmation with your e-ticket. You can also log in to your account on the official site, www.greyhound.com, or use the Greyhound mobile app to access your booking. If you have your confirmation number, use the "Manage Trip" feature to recover your ticket. Still stuck? Visit a nearby Greyhound terminal with ID and travel details for help. Digital tickets are accepted, so printing isn't always necessary.
+
 How to Find Your Greyhound Bus Ticket
 =====================================
 

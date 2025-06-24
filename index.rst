@@ -73,19 +73,19 @@ They can help reprint or replace your ticket.
 Advantages of E-Tickets on Greyhound
 ====================================
 
-- 📱 **No Paper Needed** – Just show the ticket on your phone  
-- 📧 **Always Available** – Easily found in your email or app  
-- 🚀 **Faster Check-in** – Skip the line with digital boarding  
-- 🌱 **Eco-Friendly** – Less paper waste means a greener trip  
+-  **No Paper Needed** – Just show the ticket on your phone  
+-  **Always Available** – Easily found in your email or app  
+-  **Faster Check-in** – Skip the line with digital boarding  
+-  **Eco-Friendly** – Less paper waste means a greener trip  
 
 Benefits of Traveling with Greyhound
 ====================================
 
-- 💲 **Affordable Prices** – One of the most budget-friendly travel options in the U.S.  
-- 🌍 **Wide Network** – Serves over 2,400 destinations  
-- 🔄 **Flexible Booking** – Easily modify or cancel trips  
-- 🪑 **Comfortable Seats** – Reclining seats with extra legroom  
-- 🔌 **Wi-Fi & Charging Ports** – Stay connected on the go  
+-  **Affordable Prices** – One of the most budget-friendly travel options in the U.S.  
+-  **Wide Network** – Serves over 2,400 destinations  
+-  **Flexible Booking** – Easily modify or cancel trips  
+-  **Comfortable Seats** – Reclining seats with extra legroom  
+-  **Wi-Fi & Charging Ports** – Stay connected on the go  
 
 My Experience Using Greyhound
 =============================
@@ -96,18 +96,23 @@ FAQs
 ====
 
 **Q1: What if I accidentally deleted my Greyhound confirmation email?**  
+
 A: Check your trash or spam folders. If not found, log into your Greyhound account or use your confirmation number to retrieve it.
 
 **Q2: Can I board without a printed ticket?**  
+
 A: Yes! Digital tickets shown on your phone are accepted.
 
 **Q3: What should I do if I lost my confirmation number?**  
+
 A: Visit a Greyhound terminal with a valid ID and your trip details. They can assist you.
 
 **Q4: Can I transfer my ticket to someone else?**  
+
 A: Most GreyhoundBusTickets are non-transferable. Contact customer support for possible options.
 
 **Q5: Is it safe to travel with just an e-ticket?**  
+
 A: Absolutely! It's secure, encrypted, and accepted at all Greyhound terminals.
 
 Conclusion

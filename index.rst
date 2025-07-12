@@ -7,8 +7,7 @@ How to Find Your Greyhound Bus Ticket
 
 .. image:: Button.png
    :alt: Greyhound Bus Ticket
-   :target: https://greyhoundbusticket.blogspot.com/
-
+   :target: https://pre.im/?1QC8rUorjz4YcKt8iR7CimFxHdxI00fBqQPv1Z5kvh8Ln7xWLwAai3IY6jzdT7iCmLZaloJNUZyguZIOgVDY
 .. raw:: html
 
     </div>
